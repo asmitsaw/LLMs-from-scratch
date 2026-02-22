@@ -21,21 +21,7 @@ The method described in this book for training and developing your own small-but
 <a href="http://mng.bz/orYv#reviews"><img src="https://sebastianraschka.com//images/LLMs-from-scratch-images/other/reviews.png" width="220px"></a>
 
 
-<br>
-<br>
 
-To download a copy of this repository, click on the [Download ZIP](https://github.com/rasbt/LLMs-from-scratch/archive/refs/heads/main.zip) button or execute the following command in your terminal:
-
-```bash
-git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
-```
-
-<br>
-
-(If you downloaded the code bundle from the Manning website, please consider visiting the official code repository on GitHub at [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) for the latest updates.)
-
-<br>
-<br>
 
 
 # Table of Contents
